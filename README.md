@@ -1,7 +1,18 @@
-- 👋 Hi, I’m vigneshwaran, @sureshvigneshwaran001@gmail.com
+👋 Hello, world! I'm Vigneshwaran, a passionate Electronics and Communication Engineering.
 
+🚀 I specialize in the field of Electronics, with a keen interest in RF Design,VLSI Design,DBMS. My Passion is to building a project which is related to my Domain, exploring new technologies, and solving complex problems with elegant solutions.
 
-<!---
-sureshvigneshwaran001/sureshvigneshwaran001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Currently, I'm Pre-Final year at M.Kumarasamy college of Engineering with 7.8CGPA, where I Brief Description of my mini project. 
+                         1.Smart air monitoring system.
+                         2.Micro-Heater
+                         3.Smart Battery Monitoring System Using Android
+
+🌱 I'm always learning and growing, And I Have Completed Courses form Coursera : 5g for everyone And NPTL course with elite batch,simply chat about the latest tech trends.
+
+📫 Let's connect:
+
+GitHub: [Your GitHub Profile URL]
+LinkedIn: [Your LinkedIn Profile URL]
+Twitter: [Your Twitter Profile URL]
+Website/Blog: [Your Website/Blog URL]
+Looking forward to connecting with fellow developers and building amazing things together! 😊✨

@@ -11,7 +11,7 @@
 
 📫 Let's connect:
 
-GitHub: [Your GitHub Profile URL]
+GitHub: https://github.com/sureshvigneshwaran001
 LinkedIn: [Your LinkedIn Profile URL]
 Twitter: [Your Twitter Profile URL]
 Website/Blog: [Your Website/Blog URL]

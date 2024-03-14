@@ -12,7 +12,7 @@
 📫 Let's connect:
 
 GitHub: https://github.com/sureshvigneshwaran001
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: www.linkedin.com/in/s-vigneshwaran-508255242
 Twitter: [Your Twitter Profile URL]
 Website/Blog: [Your Website/Blog URL]
 Looking forward to connecting with fellow developers and building amazing things together! 😊✨
